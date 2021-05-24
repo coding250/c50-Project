@@ -1,0 +1,20 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(47, 19, 70);
+    font-size:x-large;
+    font-family:'Courier New', Courier, monospace;
+    color: powderblue;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.origami{
+    border-radius:20px;
+    background-color:white;
+    width:300px;
+    font-family:cursive;
+}
